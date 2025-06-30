@@ -1,1 +1,0 @@
-// Placeholder for UI component: carousel.js

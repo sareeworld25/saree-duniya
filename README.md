@@ -1,1 +1,3 @@
-# saree-duniya
+# Saree Duniya
+
+સાડીઓ વેચવા માટેની સરળ વેબસાઈટ.
